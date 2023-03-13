@@ -1,1 +1,6 @@
-
+leia x
+ para cada numero entre 2 e x-1
+ se x dividido pelo valor_atual tem resto 0:
+ entao escreva NAIO É PRIMO 
+ escreva É PRIMO
+ 
