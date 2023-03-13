@@ -1,1 +1,6 @@
-
+leia capital_inicial
+leia taxa_jutros
+leia tempo
+var resultado = capital _inicial
+para todo numero entre 1 e temp, faça:
+resultado = resultado = (1+taxa_juros)
