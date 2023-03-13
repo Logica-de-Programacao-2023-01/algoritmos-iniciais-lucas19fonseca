@@ -1,1 +1,6 @@
-
+leia x 
+eia exp
+var resultado = x
+para 1 ate exp, faça:
+resultado = resultado * x
+escreva resultado
