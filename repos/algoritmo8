@@ -1,1 +1,4 @@
-
+leia base
+leia altura
+resultado =(base * altura)/2
+escrever resultado
