@@ -1,0 +1,6 @@
+ler unidade f para farenheit
+ler unidade c para celsius
+ler: T para temperatura
+se Tc desconhecido resultado = tc=32/9,5
+se tf desconhecido tc/5=tf=32/9
+ler resultado
