@@ -1,1 +1,10 @@
-
+leia lista_numeros
+leia lista_pesos
+var somatorio=0
+var somatorio_peso=0
+para cada elemento da lista_numeros, faça:
+somatorio=somatorio+(elemento_atal* peso_correspondente)
+para cada elelemnto da lista_pesos, faça:
+somatorio_pesos = somatorio_pesos +elemento_atual
+resultado = somatorio/somatorio_pesos
+escreva resultado
